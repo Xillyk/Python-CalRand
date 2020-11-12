@@ -1,5 +1,10 @@
 import random
 import math
+
+
+
+
+
 func = ['Add', 'Subtract', 'Multiply', 'Divide', 'Sin', 'Cosine', 'Tan', 'Square Root', 'Power', 'BMI', 'Random Number']
 # input_value = {'Add':2, 'Subtract':2, 'Multiply':2, 'Divide':2, 'Sin':1, 'Cosine':1, 'Tan':1, 'Square Root':1, 'Power':2, 'BMI':2, 'Random Number':2}
 input_value = {1: 2, 2: 2, 3: 2, 4: 2, 5: 1, 6: 1, 7: 1, 8: 1, 9: 2, 10: 2, 11: 2}
