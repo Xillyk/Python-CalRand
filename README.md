@@ -1,2 +1,2 @@
 # Python-CalRand
-# nothing
+# Mathematic Calculation and Random number generator
